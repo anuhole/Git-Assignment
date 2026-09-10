@@ -1,1 +1,6 @@
+ HEAD
 My favourite season is Blue 
+
+Second line in daily file
+My favourite color is Blue 
+>>>>>>> color-branch
